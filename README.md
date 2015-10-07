@@ -1,3 +1,6 @@
+# Chubby Bunny #
+Chubby Bunny is a third-person shooter and puzzle game for iOS devices. The goal of the game is to complete unique puzzles and challenges in the city to save Chubby Bunny. 
+
 # Team Members: #
 * Ichen Ko (ichenko@usc.edu)
 * Jerry Hsiung (jjhsiung@usc.edu)
