@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PA_DroneLeanFoward_Clip
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.67902912e-11, y: -0, z: -0, w: 1}
+        inSlope: {x: .0460162163, y: 0, z: 0, w: -4.43458557e-05}
+        outSlope: {x: .0460162163, y: 0, z: 0, w: -4.43458557e-05}
+        tangentMode: 1064843836
+      - time: .5
+        value: {x: .164901808, y: -0, z: -0, w: .986310005}
+        inSlope: {x: .414267898, y: 0, z: 0, w: -.0690385997}
+        outSlope: {x: .414267898, y: 0, z: 0, w: -.0690385997}
+        tangentMode: 1061257502
+      - time: .75
+        value: {x: .234974921, y: -0, z: -0, w: .972001433}
+        inSlope: {x: .0862395912, y: 0, z: 0, w: -.0206851847}
+        outSlope: {x: .0862395912, y: 0, z: 0, w: -.0206851847}
+        tangentMode: 1059803535
+      - time: .791666627
+        value: {x: .234485552, y: 0, z: 0, w: .972358108}
+        inSlope: {x: -.132546186, y: 0, z: 0, w: .039182663}
+        outSlope: {x: -.132546186, y: 0, z: 0, w: .039182663}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 8.97452529e-11, y: -0, z: -0, w: 1}
+        inSlope: {x: .0727189779, y: 0, z: 0, w: -.000110149384}
+        outSlope: {x: .0727189779, y: 0, z: 0, w: -.000110149384}
+        tangentMode: 1064843836
+      - time: .37500003
+        value: {x: .173152864, y: -0, z: -0, w: .984894991}
+        inSlope: {x: .700457335, y: 0, z: 0, w: -.123265013}
+        outSlope: {x: .700457335, y: 0, z: 0, w: -.123265013}
+        tangentMode: 1059803544
+      - time: .75
+        value: {x: .366117924, y: -0, z: -0, w: .930568516}
+        inSlope: {x: .130562007, y: 0, z: 0, w: -.0509447791}
+        outSlope: {x: .130562007, y: 0, z: 0, w: -.0509447791}
+        tangentMode: 1059803535
+      - time: .791666627
+        value: {x: .37060374, y: 0, z: 0, w: .928872228}
+        inSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        outSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone/PA_DroneWingLeft
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 8.97452529e-11, y: -0, z: -0, w: 1}
+        inSlope: {x: .0727189779, y: 0, z: 0, w: -.000110149384}
+        outSlope: {x: .0727189779, y: 0, z: 0, w: -.000110149384}
+        tangentMode: 1064843836
+      - time: .37500003
+        value: {x: .173152864, y: -0, z: -0, w: .984894991}
+        inSlope: {x: .700457335, y: 0, z: 0, w: -.123265013}
+        outSlope: {x: .700457335, y: 0, z: 0, w: -.123265013}
+        tangentMode: 1059803544
+      - time: .75
+        value: {x: .366117924, y: -0, z: -0, w: .930568516}
+        inSlope: {x: .130562007, y: 0, z: 0, w: -.0509447791}
+        outSlope: {x: .130562007, y: 0, z: 0, w: -.0509447791}
+        tangentMode: 1059803535
+      - time: .791666627
+        value: {x: .37060374, y: 0, z: 0, w: .928872228}
+        inSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        outSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone/PA_DroneWingRight
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .791666627
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

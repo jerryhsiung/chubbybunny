@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PA_DroneMoveLeft_Clip
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00149030332, w: 1.00025558}
+        inSlope: {x: 0, y: 0, z: .0557629541, w: .000695585855}
+        outSlope: {x: 0, y: 0, z: .0557629541, w: .000695585855}
+        tangentMode: 0
+      - time: .166666985
+        value: {x: 0, y: 0, z: .0333924629, w: .999442339}
+        inSlope: {x: 0, y: 0, z: .367790222, w: -.0128209572}
+        outSlope: {x: 0, y: 0, z: .367790222, w: -.0128209572}
+        tangentMode: -1100427704
+      - time: .541666985
+        value: {x: 0, y: 0, z: .228619352, w: .973515928}
+        inSlope: {x: 0, y: 0, z: .510268092, w: -.119441763}
+        outSlope: {x: 0, y: 0, z: .510268092, w: -.119441763}
+        tangentMode: -1099394696
+      - time: .833333492
+        value: {x: 0, y: 0, z: .315649033, w: .948876023}
+        inSlope: {x: 0, y: 0, z: -.0771320462, w: .0251706615}
+        outSlope: {x: 0, y: 0, z: -.0771320462, w: .0251706615}
+        tangentMode: 577
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00195113046, w: 1.00004697}
+        inSlope: {x: 0, y: 0, z: -.0908289254, w: -.00152778509}
+        outSlope: {x: 0, y: 0, z: -.0908289254, w: -.00152778509}
+        tangentMode: 0
+      - time: .0416669846
+        value: {x: 0, y: 0, z: .000955356052, w: .999999583}
+        inSlope: {x: 0, y: 0, z: .0442757569, w: -8.15394087e-05}
+        outSlope: {x: 0, y: 0, z: .0442757569, w: -8.15394087e-05}
+        tangentMode: 3395
+      - time: .666666985
+        value: {x: 0, y: 0, z: .11779391, w: .993038058}
+        inSlope: {x: 0, y: 0, z: .149969548, w: -.0176989622}
+        outSlope: {x: 0, y: 0, z: .149969548, w: -.0176989622}
+        tangentMode: -1102695264
+      - time: .833333492
+        value: {x: 0, y: 0, z: .129514754, w: .992278099}
+        inSlope: {x: 0, y: 0, z: -.100907519, w: .0130932741}
+        outSlope: {x: 0, y: 0, z: -.100907519, w: .0130932741}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone/PA_DroneWingLeft
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: -.0725738332, w: .000398399367}
+        outSlope: {x: 0, y: 0, z: -.0725738332, w: .000398399367}
+        tangentMode: 47
+      - time: .416666985
+        value: {x: 0, y: 0, z: .169349551, w: .985556066}
+        inSlope: {x: 0, y: 0, z: .601685524, w: -.103388637}
+        outSlope: {x: 0, y: 0, z: .601685524, w: -.103388637}
+        tangentMode: -1095518992
+      - time: .833333492
+        value: {x: 0, y: 0, z: .333806872, w: .942641497}
+        inSlope: {x: 0, y: 0, z: -.0280953515, w: .00983194262}
+        outSlope: {x: 0, y: 0, z: -.0280953515, w: .00983194262}
+        tangentMode: 577
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone/PA_DroneWingRight
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3335004477
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 74303169
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 465462393
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .833333492
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

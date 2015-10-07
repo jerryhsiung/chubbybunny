@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a3da0df21ab1fc3418a6c2c5e1cf5ce2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hitEffectFab: {instanceID: 0}
+  - parent: {instanceID: 0}
+  - fireballDamageSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

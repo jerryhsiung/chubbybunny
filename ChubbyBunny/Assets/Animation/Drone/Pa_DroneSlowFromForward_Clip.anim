@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Pa_DroneSlowFromForward_Clip
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .234485552, y: 0, z: 0, w: .972358108}
+        inSlope: {x: -.132546186, y: 0, z: 0, w: .039182663}
+        outSlope: {x: -.132546186, y: 0, z: 0, w: .039182663}
+        tangentMode: 0
+      - time: .0833333731
+        value: {x: .19189848, y: -0, z: -0, w: .981414795}
+        inSlope: {x: -.980807543, y: 0, z: 0, w: .183681875}
+        outSlope: {x: -.980807543, y: 0, z: 0, w: .183681875}
+        tangentMode: 1059803535
+      - time: .208333433
+        value: {x: .0178885888, y: -0, z: -0, w: .999840021}
+        inSlope: {x: -1.57017696, y: 0, z: 0, w: .0280930139}
+        outSlope: {x: -1.57017696, y: 0, z: 0, w: .0280930139}
+        tangentMode: -1082241889
+      - time: .416666687
+        value: {x: -.201932713, y: 0, z: -0, w: .979399383}
+        inSlope: {x: -.078829132, y: 0, z: 0, w: -.0155118052}
+        outSlope: {x: -.078829132, y: 0, z: 0, w: -.0155118052}
+        tangentMode: -1114641485
+      - time: .666666687
+        value: {x: -.0715113655, y: 0, z: -0, w: .997439802}
+        inSlope: {x: .691020012, y: 0, z: 0, w: .0503897592}
+        outSlope: {x: .691020012, y: 0, z: 0, w: .0503897592}
+        tangentMode: -1087611705
+      - time: .833333313
+        value: {x: -.00202838914, y: 0, z: 0, w: 1.00008047}
+        inSlope: {x: .0901667625, y: 0, z: 0, w: -.00248393975}
+        outSlope: {x: .0901667625, y: 0, z: 0, w: -.00248393975}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .37060374, y: 0, z: 0, w: .928872228}
+        inSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        outSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        tangentMode: 0
+      - time: .0833333731
+        value: {x: .391306281, y: -0, z: -0, w: .920260549}
+        inSlope: {x: .481928349, y: 0, z: 0, w: -.207308203}
+        outSlope: {x: .481928349, y: 0, z: 0, w: -.207308203}
+        tangentMode: 1059803535
+      - time: .291666687
+        value: {x: .531351328, y: -0, z: -0, w: .847151637}
+        inSlope: {x: .587266922, y: 0, z: 0, w: -.366066337}
+        outSlope: {x: .587266922, y: 0, z: 0, w: -.366066337}
+        tangentMode: 1035970173
+      - time: .458333433
+        value: {x: .559130728, y: -0, z: -0, w: .829079568}
+        inSlope: {x: -.637672782, y: 0, z: 0, w: .416586459}
+        outSlope: {x: -.637672782, y: 0, z: 0, w: .416586459}
+        tangentMode: -1082169137
+      - time: .583333433
+        value: {x: .385322988, y: -0, z: -0, w: .922781825}
+        inSlope: {x: -1.92021871, y: 0, z: 0, w: .793572903}
+        outSlope: {x: -1.92021871, y: 0, z: 0, w: .793572903}
+        tangentMode: -1082276912
+      - time: .708333433
+        value: {x: .131470799, y: -0, z: -0, w: .991320074}
+        inSlope: {x: -1.79735279, y: 0, z: 0, w: .251779079}
+        outSlope: {x: -1.79735279, y: 0, z: 0, w: .251779079}
+        tangentMode: 1060924532
+      - time: .791666687
+        value: {x: .0170911495, y: -0, z: -0, w: .999853969}
+        inSlope: {x: -.761302233, y: 0, z: 0, w: .0241735149}
+        outSlope: {x: -.761302233, y: 0, z: 0, w: .0241735149}
+        tangentMode: 1048206304
+      - time: .833333313
+        value: {x: -.00217641122, y: 0, z: 0, w: 1.0003711}
+        inSlope: {x: -.22983402, y: 0, z: 0, w: .00253200531}
+        outSlope: {x: -.22983402, y: 0, z: 0, w: .00253200531}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone/PA_DroneWingLeft
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .37060374, y: 0, z: 0, w: .928872228}
+        inSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        outSlope: {x: .10803318, y: 0, z: 0, w: -.040848732}
+        tangentMode: 0
+      - time: .0833333731
+        value: {x: .391306281, y: -0, z: -0, w: .920260549}
+        inSlope: {x: .481928349, y: 0, z: 0, w: -.207308203}
+        outSlope: {x: .481928349, y: 0, z: 0, w: -.207308203}
+        tangentMode: 1059803535
+      - time: .291666687
+        value: {x: .531351328, y: -0, z: -0, w: .847151637}
+        inSlope: {x: .587266922, y: 0, z: 0, w: -.366066337}
+        outSlope: {x: .587266922, y: 0, z: 0, w: -.366066337}
+        tangentMode: 1035970173
+      - time: .458333433
+        value: {x: .559130728, y: -0, z: -0, w: .829079568}
+        inSlope: {x: -.637672782, y: 0, z: 0, w: .416586459}
+        outSlope: {x: -.637672782, y: 0, z: 0, w: .416586459}
+        tangentMode: -1082169137
+      - time: .583333433
+        value: {x: .385322988, y: -0, z: -0, w: .922781825}
+        inSlope: {x: -1.92021871, y: 0, z: 0, w: .793572903}
+        outSlope: {x: -1.92021871, y: 0, z: 0, w: .793572903}
+        tangentMode: -1082276912
+      - time: .708333433
+        value: {x: .131470799, y: -0, z: -0, w: .991320074}
+        inSlope: {x: -1.79735279, y: 0, z: 0, w: .251779079}
+        outSlope: {x: -1.79735279, y: 0, z: 0, w: .251779079}
+        tangentMode: 1060924532
+      - time: .791666687
+        value: {x: .0170911495, y: -0, z: -0, w: .999853969}
+        inSlope: {x: -.761302233, y: 0, z: 0, w: .0241735149}
+        outSlope: {x: -.761302233, y: 0, z: 0, w: .0241735149}
+        tangentMode: 1048206304
+      - time: .833333313
+        value: {x: -.00217641122, y: 0, z: 0, w: 1.0003711}
+        inSlope: {x: -.22983402, y: 0, z: 0, w: .00253200531}
+        outSlope: {x: -.22983402, y: 0, z: 0, w: .00253200531}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PA_Drone/PA_DroneWingRight
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .833333313
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []
